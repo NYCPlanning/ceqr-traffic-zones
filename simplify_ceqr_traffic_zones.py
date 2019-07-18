@@ -60,7 +60,7 @@ def union_and_save(zone_and_geo):
 
     geojson = gpd.GeoSeries(unioned_zones).to_json()
 
-    file = open('simplified_ceqr_traffic_zones.geojson', 'w')
+    file = open('unfilled_simplified_ceqr_traffic_zones.geojson', 'w')
     file.write(geojson)
     file.close()
 
