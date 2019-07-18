@@ -1,6 +1,8 @@
 # ceqr-traffic-zones
 A script to simplify the geometry of CEQR traffic zones. 
 
+[Carto Map with current simplified traffic zones](https://bendnorman.carto.com/builder/0893430e-f2e4-405d-a82e-97fbf202435f/embed)
+
 # Instructions
 
 ## Install Requirements
